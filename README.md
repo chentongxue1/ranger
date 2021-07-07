@@ -33,9 +33,9 @@ keyadmin_password=输入密码
 #audit_solr_user=
 #audit_solr_password=
 #audit_solr_zookeepers=
-***********禁用audit审计，如需开启，需安装solr这步很关键，一直访问不到可视化界面
+#***********禁用audit审计，如需开启，需安装solr这步很关键，一直访问不到可视化界面
 
-**********在安装过程中，./set_globals.sh这步很关键，没有这步出现很奇怪的报错
+#**********在安装过程中，./set_globals.sh这步很关键，没有这步出现很奇怪的报错
 接着，运行set_globals.sh
 
 # ./set_globals.sh 
